@@ -3,7 +3,7 @@ let sort_btn = document.getElementById("sort_btn");
 let sel_btn = document.getElementById("sel_sort");
 let ins_btn = document.getElementById("ins_sort");
 let merge_btn = document.getElementById("merge_sort");
-let numOfBars = 25;
+let numOfBars = 31;
 let unsorted_array = new Array(numOfBars);
 let bars_container = document.getElementById("bars_container");
 function createRandomArray() {
